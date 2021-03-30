@@ -17,6 +17,8 @@ I will continuously update the Few-shot Learning papers based on the Graph Neura
 
 4. [Towards locality-aware meta-learning of tail node embeddings on networks, CIKM, 2020](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6299&context=sis_research)
 
+5. [Model-Agnostic Graph Regularization for Few-Shot Learning, NeurIPS Workshop on Meta-Learning, 2020](https://arxiv.org/pdf/2102.07077.pdf)
+
 ## 2019
 
 
