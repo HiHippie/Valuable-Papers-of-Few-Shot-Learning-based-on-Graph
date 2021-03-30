@@ -18,10 +18,14 @@
 
 
 1. [Few-Shot Audio Classification with Attentional Graph Neural Networks, INTERSPEECH, 2019](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1532.pdf)
-1. [Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning, CVPR, 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
 
+2. [Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning, CVPR, 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+
+3. [Learning to propagate labels: Transductive propagation network for few-shot learning, ICLR, 2019](https://arxiv.org/pdf/1805.10002.pdf)
 
 ## 2018
+
+
 
 
 ## 2017
