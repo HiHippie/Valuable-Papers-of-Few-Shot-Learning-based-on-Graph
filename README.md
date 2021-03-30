@@ -15,6 +15,7 @@ I will continuously update the Few-shot Learning papers based on the Graph Neura
 
 3. [Graph prototypical networks for few-shot learning on attributed networks, CIKM, 2020](https://arxiv.org/pdf/2006.12739.pdf)
 
+4. [Towards locality-aware meta-learning of tail node embeddings on networks, CIKM, 2020](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6299&context=sis_research)
 
 ## 2019
 
