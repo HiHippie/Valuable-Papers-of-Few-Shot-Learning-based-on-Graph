@@ -19,6 +19,11 @@ I will continuously update the Few-shot Learning papers based on the Graph Neura
 
 5. [Model-Agnostic Graph Regularization for Few-Shot Learning, NeurIPS Workshop on Meta-Learning, 2020](https://arxiv.org/pdf/2102.07077.pdf)
 
+6. [Adaptive-Step Graph Meta-Learner for Few-Shot Graph Classification, CIKM, 2020](https://dl.acm.org/doi/pdf/10.1145/3340531.3411951)
+
+7. [Graph Few-shot Learning with Attribute Matching, CIKM, 2020](https://dl.acm.org/doi/pdf/10.1145/3340531.3411923)
+
+
 ## 2019
 
 
